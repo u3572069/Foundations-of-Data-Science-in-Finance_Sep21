@@ -1,4 +1,4 @@
-# Data 8 Public Materials for Summer 2020
+#EECS 580 Public Materials for Summer 2021
 This repo contains the publicly available materials that are used in the Data 8 Foundations of Data Science course during the Summer 2020 semester.
 
 This includes: homeworks, labs, and notebooks used in lecture.
